@@ -9,3 +9,6 @@ because scrum and agile are dumb
 
 #hosting / deployment
 * run firebase deploy (if needed, install firebase CLI)
+
+working version 
+[PUNK MY SCRUM](https://punkmyscrum.firebaseapp.com/) 
