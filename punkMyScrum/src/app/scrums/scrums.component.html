@@ -1,0 +1,14 @@
+<div class="pms-container">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Scrums</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <mat-list role="list" *ngFor="let scrum of scrums" class="pms-list">
+        <mat-list-item role="listitem">
+          <strong>{{scrum.name}} - {{scrum.callInNumber }} </strong> : who to specifically troll: {{scrum.whoToTroll}}, {{scrum.notes}} 
+        </mat-list-item>
+      </mat-list>
+    </mat-card-content>
+  </mat-card>
+</div>
