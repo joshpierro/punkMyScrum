@@ -1,4 +1,4 @@
 PunkMyScrum
 =============
 
-because scrum and agile is dumb
+because scrum and agile are dumb
